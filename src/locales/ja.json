@@ -1,0 +1,56 @@
+{
+  "common": {
+    "noData": "データなし",
+    "logOut": "ログアウト",
+    "searchPlaceholder": "検索",
+    "uploadImage": "Drop images here\nor click to upload",
+    "hightLightUploadImage": "Drop images here",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "error": {
+    "fieldRequired": "必須項目を正しく入力してください。",
+    "nameInvalid": "お名前の形式が不正です。",
+    "nameTooShort": "5文字から8文字までに入力してください。",
+    "nameTooLong": "5文字から8文字までに入力してください。",
+    "zipCodeError": "郵便番号を7桁内（半角英数字）でハイフンなしで入力してください",
+    "katakanaNameInvalid": "カタカナで入力してください",
+    "emailInvalid": "メールアドレスの形式が間違っています。",
+    "codeInvalid": "IDの入力した形が正しくありません。",
+    "codeTooShort": "IDには空白を含んでいけません。",
+    "codeTooLong": "IDの文字制限は20文字です。",
+    "phoneInvalid": "090, 080, 070のいずれかで始まる電話番号をご登録ください。",
+    "urlInvalid": "URLを入力して下さい",
+    "duplicatePassword": "パスワードは二重されました。",
+    "passwordNotMatch": "入力された新パスワードが一致しません。ご確認ください。",
+    "trimSpace": "文頭や文末には空白文字を入力しないでください。",
+    "passwordTooShort": "パスワードは半角英数字で{{count}}文字以上入力する必要があります。",
+    "passwordTooLong": "パスワードは半角英数字で{{count}}文字以上入力する必要があります。",
+    "validatePassword": "Password is invalid"
+  },
+  "signIn": {
+  "title": "Sign In",
+  "phoneNumber": "Phone number",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit"
+  },
+  "signUp": {
+    "title":"Sign Up"
+  },
+  "home":{
+    "title":"Home"
+  },
+  "event":{
+    "title":"Events",
+    "createEvent": "Create Event",
+    "eventHistory": "Event History"
+  },
+  "member":{
+    "title":"Members"
+  },
+  "setting":{
+    "title":"Settings"
+  }
+
+}

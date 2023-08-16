@@ -1,0 +1,31 @@
+{
+  "common": {
+    "noData": "No data",
+    "logOut": "Logout",
+    "searchPlaceholder": "Search",
+    "uploadImage": "Drop images here \nor click to upload",
+    "hightLightUploadImage": "Drop images here",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "error": {
+    "fieldRequired": "Field is required",
+    "nameInvalid": "Name is invalid",
+    "nameTooShort": "Name is too short",
+    "nameTooLong": "Name is too long",
+    "zipCodeError": "Zip code is invalid",
+    "katakanaNameInvalid": "Katakana name is invalid",
+    "emailInvalid": "Email is invalid",
+    "codeInvalid": "Code is invalid",
+    "codeTooShort": "Code is too short",
+    "codeTooLong": "Code is too long",
+    "phoneInvalid": "Phone is invalid",
+    "urlInvalid": "Url is invalid",
+    "duplicatePassword": "Password is duplicated",
+    "passwordNotMatch": "The new password you entered does not match. Please confirm",
+    "trimSpace": "Input cannot have space in start and end",
+    "passwordTooShort": "Password must be at least {{count}} characters",
+    "passwordTooLong": "Password must not exceed {{count}} characters",
+    "validatePassword": "Password is invalid"
+  }
+}
